@@ -16,6 +16,9 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ##Dataset Link
 https://www.kaggle.com/datasets/shivamb/netflix-shows 
 
+## Schema 
+
+''' sql 
 -- Netflix Project -- 
 DROP TABLE IF EXISTS Netflix;
 CREATE TABLE Netflix (
