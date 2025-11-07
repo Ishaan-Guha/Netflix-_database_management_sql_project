@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## Schema
 
-''' sql 
+``` sql 
 -- Netflix Project -- 
 DROP TABLE IF EXISTS Netflix;
 CREATE TABLE Netflix (
@@ -37,3 +37,4 @@ CREATE TABLE Netflix (
 	description VARCHAR(250)
 );
 ''' 
+
